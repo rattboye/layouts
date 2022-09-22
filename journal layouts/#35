@@ -32,12 +32,12 @@
 <table align="center" border="0" cellpadding="0" style="width:282px">
 	<tbody>
 		<tr>
-			<td style="text-align:center"><span style="box-shadow:pink 0px 0px 0px 1e06px inset, pink 0px 0px 0px 2px; font-size:9pt; max-height:1e07px"><u style="max-height:1e07px"><strong style="max-height:1e07px">KEY</strong></u></span></td>
-			<td style="text-align:center"><span style="font-size:9pt">♡ love</span></td>
-			<td style="text-align:center"><span style="font-size:9pt">☆ like</span></td>
-			<td style="text-align:center"><span style="font-size:9pt">&there4; dislike</span></td>
-			<td style="text-align:center"><span style="font-size:9pt"># jokingly</span></td>
-			<td style="text-align:center"><span style="font-size:9pt">&empty; close</span></td>
+			<td style="padding-left:2px; text-align:left"><span style="box-shadow:pink 0px 0px 0px 1e06px inset, pink 0px 0px 0px 2px; font-size:9pt; max-height:1e07px"><u style="max-height:1e07px"><strong style="max-height:1e07px">KEY</strong></u></span></td>
+			<td style="text-align:center"><span style="font-size:1em; text-align:left">♡</span><span style="font-size:9pt"> love</span></td>
+			<td style="text-align:center"><span style="font-size:1em; text-align:left">♢</span><span style="font-size:9pt">&nbsp;like</span></td>
+			<td style="text-align:center"><span style="font-size:9pt">♤ dislike</span></td>
+			<td style="text-align:center"><span style="font-size:9pt">☆ joking</span></td>
+			<td style="text-align:center"><span style="font-size:9pt">♧ close</span></td>
 		</tr>
 	</tbody>
 </table>
@@ -50,12 +50,12 @@
 			<span style="font-size:10pt"><strong>♡ he/him/his/his/himself</strong><br />
 			<strong>♡ vam/vamp/vamps/vamps/vampself</strong><br />
 			<strong>♡ mew/meow/mews/meows/meowself<br />
-			♡ caw/crow/caws/crows/crowself</strong><br />
-			☆&nbsp;bit/byte/bits/bytes/byteself<br />
-			☆ dai/daim/dair/dairs/daimself<br />
-			☆ thou/thee/thy/thine/thyself<br />
-			&there4; they/them/their/theirs/themself<br />
-			&there4; it/it/its/its/itself</span></div>
+			♡ caw/crow/caws/crows/crowself</strong></span><br />
+			<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;bit/byte/bits/bytes/byteself</span><br />
+			<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;dai/daim/dair/dairs/daimself</span><br />
+			<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;thou/thee/thy/thine/thyself<br />
+			♤ they/them/their/theirs/themself<br />
+			♤ it/it/its/its/itself</span></div>
 			</td>
 		</tr>
 	</tbody>
@@ -69,12 +69,12 @@
 			<span style="font-size:10pt"><strong>♡ aloysius</strong><br />
 			<strong>♡ lewis</strong><br />
 			<strong>♡ clovis</strong></span><br />
-			<span style="font-size:10pt">☆ aloys<br />
-			☆ clover<br />
-			&empty; aloy<br />
-			&empty; lew<br />
-			&there4; al<br />
-			&there4; lewie</span></div>
+			<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;aloys</span><br />
+			<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;clover<br />
+			♧ aloy<br />
+			♧ lew<br />
+			♤ al<br />
+			♤ lewie</span></div>
 			</td>
 			<td>
 			<div style="height:108px; margin:0px auto; overflow:auto hidden; text-align:left; width:202px">
@@ -82,50 +82,50 @@
 				<tbody>
 					<tr>
 						<td>
-						<div style="height:108px; margin:0px auto; overflow:hidden auto; width:101px"><strong><span style="box-shadow:lightskyblue 0px 0px 0px 1e06px inset, lightskyblue 0px 0px 0px 2px; font-size:11pt; max-height:1e07px">&nbsp;honourifics&nbsp;</span></strong><br />
-						<span style="font-size:10pt">☆ mister<br />
-						☆ sir<br />
-						☆ no honorific<br />
-						&empty; mx.<br />
+						<div style="height:108px; margin:0px auto; overflow:hidden auto; width:101px"><strong><span style="box-shadow:lightskyblue 0px 0px 0px 1e06px inset, lightskyblue 0px 0px 0px 2px; font-size:11pt; max-height:1e07px">&nbsp;honorifics&nbsp;</span></strong><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;mister</span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;sir</span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;no honorific<br />
+						♧ mx.<br />
 						<strong>♡ captain</strong><br />
-						<strong>♡ prince</strong><br />
-						☆ highness<br />
-						☆ majesty</span></div>
+						<strong>♡ prince</strong></span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;highness</span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;majesty</span></div>
 						</td>
 						<td>
 						<div style="height:108px; margin:0px auto; overflow:hidden auto; width:101px"><strong><span style="box-shadow:lightskyblue 0px 0px 0px 1e06px inset, lightskyblue 0px 0px 0px 2px; font-size:11pt; max-height:1e07px">&nbsp;nouns&nbsp;</span></strong><br />
-						<span style="font-size:10pt">☆&nbsp;man<br />
-						☆ boy<br />
-						<strong>♡ guy</strong><br />
-						☆ dude<br />
-						☆ person<br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;man</span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;boy<br />
+						<strong>♡ guy</strong></span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;dude</span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;person<br />
 						<strong>♡ himbo</strong><br />
-						&there4; bimbo<br />
+						♤ bimbo<br />
 						<strong>♡ catboy</strong><br />
 						<strong>♡ vampire</strong></span></div>
 						</td>
 						<td>
 						<div style="height:108px; margin:0px auto; overflow:hidden auto; width:101px"><strong><span style="box-shadow:lightskyblue 0px 0px 0px 1e06px inset, lightskyblue 0px 0px 0px 2px; font-size:11pt; max-height:1e07px">&nbsp;adjectives&nbsp;</span></strong><br style="font-size:16px;text-align:left" />
-						<span style="font-size:10pt">☆ pretty<br />
-						<strong>♡&nbsp;handsome</strong><br />
-						☆&nbsp;cute<br />
-						☆ beautiful<br />
-						<strong>♡ gorgeous</strong><br />
-						☆ swag<br />
-						☆ pog<br />
-						&empty;&nbsp;hot<br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;pretty<br />
+						<strong>♡&nbsp;handsome</strong></span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;cute</span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;beautiful<br />
+						<strong>♡ gorgeous</strong></span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;swag</span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;pog<br />
+						♧ hot<br />
 						<strong>♡ attractive</strong><br />
-						# sexy</span></div>
+						☆ sexy</span></div>
 						</td>
 						<td>
 						<div style="height:108px; margin:0px auto; overflow:hidden auto; width:101px"><strong><span style="box-shadow:lightskyblue 0px 0px 0px 1e06px inset, lightskyblue 0px 0px 0px 2px; font-size:11pt; max-height:1e07px">&nbsp;relations&nbsp;</span></strong><br />
-						<span style="font-size:10pt"><strong>♡ brother</strong><br />
-						☆ sibling<br />
+						<span style="font-size:10pt"><strong>♡ brother</strong></span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;sibling<br />
 						<strong>♡ boyfriend</strong><br />
 						<strong>♡ spouse</strong></span><br />
-						<span style="font-size:10pt">&empty;&nbsp;husband<br />
-						<strong>♡ malewife</strong><br />
-						☆ partner</span></div>
+						<span style="font-size:10pt">♧ husband<br />
+						<strong>♡ malewife</strong></span><br />
+						<span style="font-size:1em; text-align:left">♢</span><span style="font-size:10pt">&nbsp;partner</span></div>
 						</td>
 					</tr>
 				</tbody>
@@ -148,4 +148,3 @@
 		</tr>
 	</tbody>
 </table>
-</div>
