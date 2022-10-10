@@ -3,7 +3,7 @@
 \> please like my lms post if you are using any of my layouts.  
 \> do not ever move or remove credit.  
 \> do not claim any of my layouts as your own. you will be reported and hard blocked on the spot.  
-\> inspiration credit is required. please provide a link to the layout you got inspiration from as well as a link back to my layout account.  
+\> inspiration credit is required. please provide a link to my layout account in the layout. providing a link to the layout you got inspiration from is optional.  
 \> do not use any of my layouts as a base or combine them with other layouts.  
 \> system layouts are NOT to be repurposed under any circumstances whatsoever.  
 
@@ -12,7 +12,7 @@ do you take layout requests / can you make a layout for me?
 —— no, i don’t take layout requests and i will not make a layout for you, so please don’t message me asking to make a layout for you.
 
 can i take inspo?  
-—— yes, you may take inspiration from my layouts. however, credit is required; please provide a link back to the layout you took inspiration from and a link back to my layout account. i reserve the right to ask you to alter your layout or take it down completely if i believe you copied portions of my layouts verbatim. if you have any questions about taking inspiration, feel free to send me a message.
+—— yes, you may take inspiration from my layouts; however, credit is required. as stated in my rules, please provide a link to my layout account in the layout and providing a link to the layout you got inspiration from is optional. i reserve the right to ask you to alter your layout or take it down completely if i believe you copied portions of my layouts verbatim. if you have any questions about taking inspiration, feel free to send me a message.
 
 what do you use to make layouts?  
 —— i make my layouts either on my phone—samsung galaxy a8—or on my laptop—acer spin. the display settings i use while making my layouts are text size small and dark mode, however, i do check them on light and black mode.
