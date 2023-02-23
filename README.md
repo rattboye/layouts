@@ -4,8 +4,8 @@
 \> do not ever move or remove credit.  
 \> do not claim any of my layouts as your own. you will be reported and hard blocked on the spot.  
 \> inspiration credit is required. please provide a link to my layout account in the layout. providing a link to the layout you got inspiration from is optional.  
-\> do not use any of my layouts as a base or combine them with other layouts.  
-\> system layouts are NOT to be repurposed under any circumstances whatsoever.  
+\> do not use any of my layouts as a base or combine them with other layouts. this means you are not allowed to copy and paste any part or parts of my any of my layouts into another layout or vice versa.  
+\> system layouts are NOT to be repurposed under any circumstances whatsoever. any layouts on L1GHTS are off limits unless you are plural.  
 
 ### FAQ
 do you take layout requests / can you make a layout for me?  
