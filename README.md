@@ -1,6 +1,6 @@
 ### LAYOUTS BY ALOYSIUS [[@kleenexbox](https://www.quotev.com/kleenexbox)]
 ### RULES
-\> please like my [lms post](https://www.quotev.com/kleenexbox/activity/806400343) if you are using any of my layouts.  
+\> please like my lms post if you are using any of my layouts.  
 \> do not ever move or remove credit.  
 \> do not claim any of my layouts as your own. you will be reported and hard blocked on the spot.  
 \> inspiration credit is required. please provide a link to my layout account in the layout. providing a link to the layout you got inspiration from is optional.  
