@@ -30,4 +30,4 @@ someone stole one of your layouts. what should i do?
 —— please message me immediately. i do ask that you don’t confront the person about it; leave it up to me to deal with them.
 
 a question i have isn’t on here.  
-—— send me a [message](https://www.quotev.com/kleenexbox/messages) and i’ll do my best to answer your question.
+—— send me a message and i’ll do my best to answer your question.
