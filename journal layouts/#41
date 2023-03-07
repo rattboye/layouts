@@ -1,5 +1,5 @@
 <div style="text-align:center">
-<table align="center" border="0" cellpadding="0" style="color:#dddddd; font-family:system-ui,-apple-system,&quot;Segoe UI&quot;,Roboto,&quot;Lucida Grande&quot;,Tahoma,sans-serif; font-size:14px; height:180px; width:236px">
+<table align="center" border="0" cellpadding="0" style="font-family:system-ui,-apple-system,&quot;Segoe UI&quot;,Roboto,&quot;Lucida Grande&quot;,Tahoma,sans-serif; font-size:14px; height:180px; width:236px">
 	<tbody>
 		<tr>
 			<td>
@@ -76,7 +76,7 @@
 								<tr>
 									<td>
 									<div style="font-size:10pt; height:70px; line-height:1.75; margin:0px auto; overflow:hidden auto; width:140px">
-									<table border="0" cellpadding="0" style="width:138px">
+									<table border="0" cellpadding="0" style="width:136px">
 										<tbody>
 											<tr>
 												<td style="width:24px"><img alt="" height="128" src="https://i.postimg.cc/YSYv9pcN/e-IUK1xmlqmax.png" style="border-radius:2px; float:left; height:auto; width:18px" width="128" /></td>
@@ -85,7 +85,7 @@
 										</tbody>
 									</table>
 
-									<table border="0" cellpadding="0" style="width:138px">
+									<table border="0" cellpadding="0" style="width:136px">
 										<tbody>
 											<tr>
 												<td style="width:24px"><img alt="" height="128" src="https://i.postimg.cc/D0y0BLS5/K1-Cz-Eu-MOBWQK.png" style="border-radius:2px; float:left; height:auto; width:18px" width="128" /></td>
@@ -94,7 +94,7 @@
 										</tbody>
 									</table>
 
-									<table border="0" cellpadding="0" style="width:138px">
+									<table border="0" cellpadding="0" style="width:136px">
 										<tbody>
 											<tr>
 												<td style="width:24px"><img alt="" height="400" src="https://i.postimg.cc/gcNnrS77/wptyocx6w64a.png" style="border-radius:2px; float:left; height:auto; width:18px" width="400" /></td>
@@ -103,7 +103,7 @@
 										</tbody>
 									</table>
 
-									<table border="0" cellpadding="0" style="width:138px">
+									<table border="0" cellpadding="0" style="width:136px">
 										<tbody>
 											<tr>
 												<td style="width:24px"><img alt="" height="128" src="https://i.postimg.cc/FRv7k2mM/79-FGQ6vb-YWSk.png" style="border-radius:2px; float:left; height:auto; width:18px" width="128" /></td>
@@ -112,7 +112,7 @@
 										</tbody>
 									</table>
 
-									<table border="0" cellpadding="0" style="width:138px">
+									<table border="0" cellpadding="0" style="width:136px">
 										<tbody>
 											<tr>
 												<td style="width:24px"><img alt="" height="139" src="https://i.postimg.cc/NFJMVFTt/fcv26a-X7-RDNa.png" style="border-radius:2px; float:left; height:auto; width:18px" width="139" /></td>
@@ -121,7 +121,7 @@
 										</tbody>
 									</table>
 
-									<table border="0" cellpadding="0" style="width:138px">
+									<table border="0" cellpadding="0" style="width:136px">
 										<tbody>
 											<tr>
 												<td style="width:24px"><img alt="" height="128" src="https://i.postimg.cc/PxMNW25P/SK9-XBJw-Cml-HH.png" style="border-radius:2px; float:left; height:auto; width:18px" width="128" /></td>
@@ -195,5 +195,3 @@
 		</tr>
 	</tbody>
 </table>
-<br />
-<br />
