@@ -1,9 +1,10 @@
+<div style="text-align:center">
 <table align="center" border="0" cellpadding="0">
 	<tbody>
 		<tr>
 			<td>
-			<div class="uhDark" style="border-color:#0f0f0f; border-radius:30px 0px; border-style:solid; border-width:1.5px; box-shadow:inset 0px 0px 0px 1000px #f5f5f5, 0px 0px 5px #696969bf; height:372px; margin:0px auto; overflow:hidden; padding:10px; width:270px">
-			<table align="center" border="0" cellpadding="0" style="margin-bottom:20px">
+			<div class="uhDark" style="background-image:url(https://i.postimg.cc/JmHjdscn/101214mq-THKng-A.jpg); border-color:#0f0f0f; border-radius:30px 0px; border-style:solid; border-width:1.5px; box-shadow:inset 0px 0px 0px 1000px #f5f5f5f5, 0px 0px 5px #696969bf; height:372px; margin:0px auto; overflow:hidden; padding:10px; width:270px">
+			<table align="center" border="0" cellpadding="0" style="margin-bottom:26px">
 				<tbody>
 					<tr>
 						<td>
@@ -52,7 +53,7 @@
 				<tbody>
 					<tr>
 						<td>
-						<div style="border-radius:100%; box-shadow:#bc8f8f 0px 0px 0px 100px inset; height:10px; margin:0px auto; text-align:center; width:10px"><a href="https://www.quotev.com">&nbsp;&nbsp;</a></div>
+						<div style="border-radius:100%; box-shadow:#282828 0px 0px 0px 100px inset; height:10px; margin:0px auto; text-align:center; width:10px"><a href="https://www.quotev.com">&nbsp;&nbsp;</a></div>
 						</td>
 						<td>
 						<div style="border-color:#0f0f0f; border-radius:100%; border-style:solid; border-width:1px; box-shadow:#f5f5f5 0px 0px 0px 100px inset; height:8px; margin:0px 5px; text-align:center; width:8px"><a href="https://www.quotev.com">&nbsp;&nbsp;</a></div>
@@ -87,11 +88,11 @@
 		<tr>
 			<td>
 			<div style="height:372px; margin:-10px -15px 0px 0px; padding:10px; width:270px">
-			<table align="center" border="0" cellpadding="0" style="margin-top:44px">
+			<table align="center" border="0" cellpadding="0" style="margin-top:50px">
 				<tbody>
 					<tr>
 						<td>
-						<div style="border-color:#bc8f8f; border-radius:92px 0px; border-style:solid; border-width:1px; height:160px; margin:0px auto; overflow:hidden; position:relative; width:260px">&nbsp;</div>
+						<div style="border-color:#282828; border-radius:92px 0px; border-style:solid; border-width:1px; height:160px; margin:0px auto; overflow:hidden; position:relative; width:260px">&nbsp;</div>
 						</td>
 					</tr>
 				</tbody>
@@ -101,3 +102,4 @@
 		</tr>
 	</tbody>
 </table>
+</div>
