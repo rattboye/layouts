@@ -1,4 +1,7 @@
 ### LAYOUTS BY ALOYSIUS [[@kleenexbox](https://www.quotev.com/kleenexbox)]
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7FDUQR)
+
 ### RULES
 \> please like the LMS post linked in my tagline if you are using any of my layouts.  
 \> do not ever move or remove credit.  
