@@ -15,7 +15,7 @@ do you take layout requests / can you make a layout for me?
 —— no, i don’t take layout requests and i will not make a layout for you, so please don’t message me asking to make a layout for you.
 
 can i take inspo?  
-—— yes, you may take inspiration from my layouts; however, credit is required. as stated in my rules, please provide a link to my layout directory in the layout; providing a link to the layout you got inspiration from is optional. i reserve the right to ask you to alter your layout or take it down completely if i believe you copied portions of my layouts verbatim. if you have any questions about taking inspiration, feel free to send me a message.
+—— yes, you may take inspiration from my layouts; however, credit is required. as stated in my rules, please provide a link to my layout directory in the layout; providing a link in the journal or about to the layout you got inspiration from is optional. i reserve the right to ask you to alter your layout or take it down completely if i believe you copied portions of my layouts verbatim. if you have any questions about taking inspiration, feel free to send me a message.
 
 what do you use to make layouts?  
 —— i make my layouts either on my phone—samsung galaxy a8—or on my laptop—acer spin. the display settings i use while making my layouts are text size small and dark mode, however, i do check them on light and black mode.
