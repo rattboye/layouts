@@ -1,0 +1,4 @@
+<div style="text-align:center"><span style="font-size:12pt">૮ &bull; ﻌ - ა&nbsp; aloy<u>sius</u>&nbsp; <i>or</i>&nbsp; <b>alf</b>onse<br />
+★&nbsp; he vam caw&nbsp;<b>+</b>&nbsp; //&nbsp; <b>20</b>yrs<br />
+<b>➘</b>&nbsp;&nbsp;<img alt="" height="20" src="https://i.postimg.cc/6q5tgvQP/transgender-5-stripes-20-px.png" style="border-radius:1.5px; height:16px; margin-top:-3px; vertical-align:middle; width:20px" width="20" />&nbsp;<img alt="" height="20" src="https://i.postimg.cc/kXw1GRb5/omnisexual-5-stripes-20.png" style="border-radius:1.5px; height:16px; margin-top:-3px; vertical-align:middle; width:20px" width="20" />&nbsp;<img alt="" height="20" src="https://i.postimg.cc/RVhvTKy6/asexual-4-stripes-20-px.png" style="border-radius:1.5px; height:16px; margin-top:-3px; vertical-align:middle; width:20px" width="20" />&nbsp;&nbsp;. . .&nbsp; taken !!<br />
+<b>╰┄</b>&nbsp;&middot; extra byf tunes <a href="https://www.quotev.com/kleenexbox">credit</a></span></div>
