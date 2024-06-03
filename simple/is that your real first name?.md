@@ -1,0 +1,6 @@
+<div style="text-align:center"><span style="font-size:12pt"><b>aloysius</b>&nbsp;. . or alfonse/lewis<i>!?</i><br />
+he vam caw dai ++&nbsp;&nbsp;<img alt="" height="16";width="16" src="https://i.postimg.cc/6q5tgvQP/transgender-5-stripes-20-px.png" style="height:auto; margin-top:-3px; vertical-align:middle; width:16px" width="20" /><img alt="" height="16" src="https://i.postimg.cc/kXw1GRb5/omnisexual-5-stripes-20.png" style="height:16; margin-top:-3px; vertical-align:middle; width:16px" width="16" /><img alt="" height="16" src="https://i.postimg.cc/RVhvTKy6/asexual-4-stripes-20-px.png" style="height:auto; margin-top:-3px; vertical-align:middle; width:16px" width="20" /><img alt="" height="16" src="https://i.postimg.cc/k4zzXcDh/polyamorous-3-stripes-20-px.png" style="height:auto; margin-top:-3px; vertical-align:middle; width:16px" width="16" /><br />
+<i><b>➘</b></i> white canadian <b><u>☆</u></b>&nbsp;virgo entp<br />
+20 ︵&nbsp;<b>priv</b> personal &amp; <i>atftm</i>...<br />
+<s>&nbsp; &nbsp;&nbsp;</s><a href="www.youtube-nocookie.com/embed/_HOY9iwv8EY"><img src="https://i.imgur.com/Qhrvq1Y.png" width="40" height="10" border="0"></a>
+&nbsp; ░&nbsp; byf extra <a href="https://www.quotev.com/kleenexbox">credit</a> <b>)</b></span></div>
