@@ -42,7 +42,7 @@ ADDITIONAL DATA<br />
 <u><i>biological sex</i></u>: female<br />
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<i><u>gender</u></i>: agender<br />
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<i><u>pronouns</u></i>: they/them/theirs<br />
-<i><u>orientation</u></i>: omnis*xual<br />
+<i><u>orientation</u></i>: omnisexual<br />
 <i><u>marital status</u></i>: taken<br />
 <i><u>education</u></i>: elementary, secondary<br />
 <i><u>occupation</u></i>: singer, songwriter, musician<br />
