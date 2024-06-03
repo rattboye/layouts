@@ -1,0 +1,5 @@
+<div style="text-align:center"><span style="font-size:12pt">. .&nbsp; &nbsp;&nbsp;<b>aloysius</b>&nbsp; &nbsp; ૮ ・ﻌ・ა&nbsp; &nbsp; he/vam +<br />
+ꜜ&nbsp; &nbsp;<img alt="" height="20" src="https://i.postimg.cc/h4w3TPBm/ezgif-5-f6e7a329e9.png" style="height:auto; vertical-align:middle; width:20px" width="40" />&nbsp;&nbsp;<img alt="" height="20" src="https://i.postimg.cc/2SNc9c38/ezgif-5-430e4907a9.png" style="height:auto; vertical-align:middle; width:20px" width="20" />&nbsp;&nbsp;<img alt="" height="20" src="https://i.postimg.cc/6pVHkrGV/ezgif-5-9f7f643868.png" style="height:auto; vertical-align:middle; width:20px" width="40" />&nbsp;˖&nbsp; &nbsp;❁&nbsp; &nbsp;21&nbsp; &nbsp;<b>♡</b>&nbsp; &nbsp;taken <i>!</i><br />
+💞&nbsp; &nbsp;adhdtism&nbsp; &nbsp;☆&nbsp; &nbsp;CND&nbsp; &nbsp;</span><span style="font-size:16px">˚&nbsp;&nbsp;</span><span style="font-size:12pt">˖&nbsp; &nbsp;ext <a href="https://www.quotev.com/kleenexbox">crd</a></span></div>
+<br />
+<b>#&nbsp;<u>flags</u>:</b>&nbsp; flags can be found&nbsp;<a href="https://rentry.co/ukulele" rel="noopener nofollow">here</a>.
