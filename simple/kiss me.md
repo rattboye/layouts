@@ -1,0 +1,8 @@
+<div style="text-align:center"><span style="font-size:12pt">૮₍&acute;˶&bull; . &bull; ⑅ ₎ა&nbsp; <b>ALOYSiUS</b> <i><b>?!</b></i><br />
+<b>❀</b>&nbsp; &nbsp;he / vam / dai&nbsp; ᐩ&nbsp;&nbsp;<img alt="" height="20" src="https://64.media.tumblr.com/5592da476a936de0eda7f4fbcb33ceb0/ab4038e9faf38e59-68/s75x75_c1/a3cd66e1969a05d5d5d7bafe10f8c8a26e1100e8.gif" style="height:auto; vertical-align:middle; width:18px" width="20" /><br />
+<img alt="" height="18" src="https://i.postimg.cc/053r2xjk/8lt86s.gif" style="height:18px; vertical-align:middle; width:auto" width="59" />&nbsp; &nbsp;twenty1&nbsp; t<u>masc</u><br />
+: &uml; &middot;.&middot; &uml; :&nbsp; &nbsp;<span style="font-family:times new roman"><b>v</b></span>irgo&nbsp; &nbsp;<img alt="" height="20" src="https://64.media.tumblr.com/29481911df1f692905c48186514d20bc/ab4038e9faf38e59-0e/s75x75_c1/74d60cfe518a1259deebd3eef99afed75eb17618.gif" style="height:auto; vertical-align:middle; width:18px" width="20" /> &nbsp; ENTP<br />
+&nbsp;`&nbsp;&middot;&zwnj;&zwnj;&zwnj;&nbsp;. &middot;&zwnj;&zwnj;&zwnj; &acute;&nbsp; &nbsp; <b><i><span style="font-family:times new roman">&amp;</span></i>&nbsp;</b>&nbsp; O1&nbsp; O2&nbsp; <a href="https://www.quotev.com/kleenexbox">O3</a>&nbsp;&nbsp; <img alt="" height="20" src="https://64.media.tumblr.com/e03dabdcbde578f2e0a0d975ffea9bdb/f7ff660810f8e1f0-ff/s75x75_c1/cca0fcce832093267f4480b37be610bb8df7045b.gif" style="height:auto; vertical-align:middle; width:18px" width="20" /></span></div>
+
+<div><br />
+<b>#&nbsp;<u>pixels</u>:</b>&nbsp; the &quot;love me&quot; button is from <a href="https://rentry.co/7haib4ov" rel="noopener nofollow">here</a>, along with other buttons like it.</div>
