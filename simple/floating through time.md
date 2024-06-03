@@ -1,0 +1,6 @@
+<div style="text-align:center"><span style="font-size:12pt"><img alt="" src="https://i.imgur.com/jZU2gOa.gif" style="height:auto; vertical-align:middle; width:18px" />&nbsp;&nbsp;</span><span style="font-size:12pt">\ \&nbsp;&nbsp;<b>ALOYSiUS </b><i>?!</i><br />
+ゝ◡╹)ノ&nbsp; he vam dai +<br />
+21yrs ☆ ︵ adhdtism.<br />
+&nbsp;<img alt="" height="50" src="https://i.postimg.cc/44F7p2y3/transgender.png" style="height:22px; margin-top:-3px; vertical-align:middle; width:32px" width="80" />&nbsp;<img alt="" height="50" src="https://i.postimg.cc/gJDnQ27b/nonbinary.png" style="height:22px; margin-top:-3px; vertical-align:middle; width:32px" width="80" />&nbsp;<img alt="" height="50" src="https://i.postimg.cc/KvkKf73D/omnisexual.png" style="height:22px; margin-top:-3px; vertical-align:middle; width:32px" width="80" />&nbsp;<img alt="" height="120" src="https://i.postimg.cc/wvMnSqS0/Asexual.png" style="height:22px; margin-top:-3px; vertical-align:middle; width:32px" width="200" /><br />
+#&nbsp;<a href="www.youtube-nocookie.com/embed/uK5lcI60xyM"><img src="https://i.imgur.com/Qhrvq1Y.png" width="30" height="10" border="0"></a>&nbsp;..&nbsp;loves&nbsp;➊ ➋ ➌<br />
+<a href="https://www.quotev.com/kleenexbox">credit</a>&nbsp;( ♡ ) extra tunes</span></div>
