@@ -1,0 +1,4 @@
+<div style="text-align:center"><span style="font-size:12pt"><img alt="" height="20" src="https://i.imgur.com/QLaQiUG.gif" style="height:auto; vertical-align:middle; width:18px" width="20" />&nbsp;: aloysius&nbsp;★ alfonse ! he / vam&nbsp;★<br />
+⭔&nbsp;&middot; adhdtism&nbsp;&sub;🌊&sup; taken&nbsp;&nbsp;<img alt="" height="20" src="https://i.imgur.com/mPhaeJl.gif" style="height:auto; vertical-align:middle; width:18px" width="20" /><br />
+<img alt="" height="20" src="https://i.imgur.com/BDqzpqp.gif" style="height:auto; vertical-align:middle; width:18px" width="20" />&nbsp; twenty1 +&nbsp;&middot;&nbsp; eng canadian&nbsp;❜<br />
+<img alt="" height="20" src="https://i.imgur.com/XUCGdOo.gif" style="height:auto; vertical-align:middle; width:18px" width="20" />&nbsp;&nbsp;ʚ extra . music . <a href="https://www.quotev.com/kleenexbox">credit&nbsp;</a>ɞ&nbsp;(˶ᵔ ᵕ ᵔ˶)</span></div>
