@@ -4,7 +4,7 @@ name :&nbsp; nicolas alexander christian arwen lockwood.<br />
 place of birth :&nbsp; binghamton, new york, united states.<br />
 date of birth :&nbsp; august 1, 1998.<br />
 age :&nbsp; twenty two.<br />
-orientation :&nbsp; omnis*xual.<br />
+orientation :&nbsp; omnisexual.<br />
 relationship status :&nbsp; taken.<br />
 gender :&nbsp; agender.<br />
 .&nbsp; .&nbsp; .<br />
