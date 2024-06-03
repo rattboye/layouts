@@ -102,7 +102,7 @@ lockwood |&nbsp;enclosed wood</sup></sub></span></span></div>
 <div style="font-size:15px; margin-left:40px; text-align:left"><span style="font-family:arial"><span style="font-size:8pt"><sub><sup style="font-size:1em">overthinks things, very emotional, passive, blunt, pessimistic, self-critical, reckless</sup></sub></span></span></div>
 <span style="font-family:arial; font-size:15px; text-align:left"><span style="font-size:8pt"><sub><sup style="font-size:1em">.&nbsp; .&nbsp; .<br />
 ❛ ADDITIONAL DATA ❜<br />
-<i><u>biological s*x</u></i>&nbsp;:</sup></sub></span></span>
+<i><u>biological sex</u></i>&nbsp;:</sup></sub></span></span>
 
 <div style="font-size:15px; margin-left:40px; text-align:left"><span style="font-family:arial"><span style="font-size:8pt"><sub><sup style="font-size:1em">female</sup></sub></span></span></div>
 <span style="font-family:arial; font-size:15px; text-align:left"><span style="font-size:8pt"><sub><sup style="font-size:1em"><i><u>gender</u></i>&nbsp;:</sup></sub></span></span>
@@ -110,7 +110,7 @@ lockwood |&nbsp;enclosed wood</sup></sub></span></span></div>
 <div style="font-size:15px; margin-left:40px; text-align:left"><span style="font-family:arial"><span style="font-size:8pt"><sub><sup style="font-size:1em">agender</sup></sub></span></span></div>
 <span style="font-family:arial; font-size:15px; text-align:left"><span style="font-size:8pt"><sub><sup style="font-size:1em"><i><u>orientation</u></i>&nbsp;:</sup></sub></span></span>
 
-<div style="font-size:15px; margin-left:40px; text-align:left"><span style="font-family:arial"><span style="font-size:8pt"><sub><sup style="font-size:1em">omnis*xual</sup></sub></span></span></div>
+<div style="font-size:15px; margin-left:40px; text-align:left"><span style="font-family:arial"><span style="font-size:8pt"><sub><sup style="font-size:1em">omnisexual</sup></sub></span></span></div>
 <span style="font-family:arial; font-size:15px; text-align:left"><span style="font-size:8pt"><sub><sup style="font-size:1em"><i><u>marital status</u></i>&nbsp;:</sup></sub></span></span>
 
 <div style="font-size:15px; margin-left:40px; text-align:left"><span style="font-family:arial"><span style="font-size:8pt"><sub><sup style="font-size:1em">taken; polyamorous</sup></sub></span></span></div>
