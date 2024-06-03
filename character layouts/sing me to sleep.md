@@ -55,7 +55,7 @@ biological sex :&nbsp; female</sup></sub></span></span>
 
 <div style="font-size:15px; margin-left:40px; text-align:left"><span style="font-family:arial"><span style="font-size:8pt"><sub><sup style="font-size:1em">gender :&nbsp; agender<br />
 pronouns :&nbsp; they/them/theirs</sup></sub></span></span></div>
-<span style="font-family:arial; font-size:15px; text-align:left"><span style="font-size:8pt"><sub><sup style="font-size:1em">orientation :&nbsp; omnis*xual<br />
+<span style="font-family:arial; font-size:15px; text-align:left"><span style="font-size:8pt"><sub><sup style="font-size:1em">orientation :&nbsp; omnisexual<br />
 marital status :&nbsp; taken<br />
 education :&nbsp; elementary, secondary<br />
 occupation :&nbsp; singer, songwriter, musician<br />
